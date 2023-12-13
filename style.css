@@ -1,12 +1,16 @@
 .imagem {
   width: 500px;
   height: 500px;
+  margin-left: auto;
+  margin-right: auto;
   border: 1px solid black;
   background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Walkin_Miles_Davis_AllStars.jpg/220px-Walkin_Miles_Davis_AllStars.jpg"); 
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 audio {
   margin-top: 250px;
-    margin-left: 125px;
-  }
+  margin-left: 125px;
+  
+}
