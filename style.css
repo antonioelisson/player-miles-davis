@@ -3,7 +3,8 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.iamgem {
+.imagem {
+  border: 1px solid black;
   background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Walkin_Miles_Davis_AllStars.jpg/220px-Walkin_Miles_Davis_AllStars.jpg"); 
   background-repeat: no-repeat;
   background-position: center;
