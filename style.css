@@ -5,6 +5,7 @@ body {
 }
 .imagem {
   width: 500px;
+  height: 500px;
   border: 1px solid black;
   background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Walkin_Miles_Davis_AllStars.jpg/220px-Walkin_Miles_Davis_AllStars.jpg"); 
   background-repeat: no-repeat;
